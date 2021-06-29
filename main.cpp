@@ -24,7 +24,6 @@
       - appointment name
       - military time
 
--- 
 
 */
 
